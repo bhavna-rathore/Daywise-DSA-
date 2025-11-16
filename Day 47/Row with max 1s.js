@@ -21,7 +21,6 @@ class Solution {
     }
     rowWithMax1s(arr) {
         // code here
-
         let n = arr.length
         let m = arr[0].length
         let index = -1
